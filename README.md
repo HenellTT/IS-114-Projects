@@ -14,3 +14,5 @@ Currently trying to use Git Bash to commit changes to README.md, however I still
 Such confusion
 
 Testing notepad README.md
+
+Testing VS Code README.md
