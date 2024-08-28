@@ -12,3 +12,5 @@ Answer - Yes.
 
 Currently trying to use Git Bash to commit changes to README.md, however I still need to figure out how to do it.
 Such confusion
+
+Testing notepad README.md
