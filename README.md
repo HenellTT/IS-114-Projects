@@ -7,6 +7,8 @@ Right now using GitHub Desktop application to see and save my respo locally on m
 I tried to use Codespace extension, where it launches a Remote Window and whenever a change is committed within a branch, it goes straight to the GitHub.com respo. But I was not able to use Live Server-extension whilst having Codespace open, so I had to find another solution.
 
 Trying to figure out how to commit changes to a branch. - Just figuring things out:
-Do I just need to save things on VS Code, then just Commit it on GitHub Desktop Application
+Do I just need to save things on VS Code, then just Commit it on GitHub Desktop Application?
+Answer - Yes.
 
 Currently trying to use Git Bash to commit changes to README.md, however I still need to figure out how to do it.
+Such confusion
