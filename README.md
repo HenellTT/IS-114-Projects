@@ -24,8 +24,6 @@ I had no clue how to fix this issue, I tried git status, which just sent the sam
 This worked and he explained that git needs register a changed in the clone respo, or else it wont push it - which then explains 'Your branch is up to date with 'origin/working'' - There wasn't any change in the respo to commit.
 Now it works as it should
 
-Test
-
 Testing notepad README.md
 
 Testing VS Code README.md
