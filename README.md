@@ -1,6 +1,6 @@
 # IS-114-Projects
 
-Course IS-114 at UiA - IT &amp; Informationsystems
+Course IS-114 at UiA - IT & Informationsystems
 
 Microsoft Windows 11, v. 23h2
 
