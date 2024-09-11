@@ -27,3 +27,7 @@ Now it works as it should
 Testing notepad README.md
 
 Testing VS Code README.md
+
+$ git add *
+$ git commit -m 'Test'
+$ git push
